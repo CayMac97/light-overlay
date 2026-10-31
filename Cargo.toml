@@ -1,0 +1,11 @@
+[package]
+name = "horizon-mod-light-overlay"
+version = "1.0.0"
+edition = "2024"
+license = "MIT"
+authors = ["CayMac"]
+description = "Light Overlay (F7) for Horizon — 1:1 Light Overlay & MiniHUD F7 mob-spawn light level visualizer with 3D crosses (X) and light numbers (0-15)."
+repository = "https://github.com/CayMac97/light-overlay"
+
+[lib]
+path = "src/lib.rs"

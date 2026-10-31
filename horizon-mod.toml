@@ -1,0 +1,18 @@
+schema = 1
+id = "light_overlay"
+name = "Light Overlay"
+version = "1.0.0"
+description = "1:1 Light Overlay & MiniHUD (F7): visualizes mob-spawnable blocks with 3D Yellow (night spawn) and Red (always/cave spawn) crosses (X) or 3D light level numbers (0-15)."
+authors = ["CayMac"]
+license = "MIT"
+repository = "https://github.com/CayMac97/light-overlay"
+icon = ""
+
+[environment]
+client = "required"
+server = "unsupported"
+
+[compatibility]
+game = ["26.3"]
+horizon = ">=0.2.0-nightly.2026.10.28"
+api = 1
